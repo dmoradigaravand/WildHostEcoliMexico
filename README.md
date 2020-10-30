@@ -10,9 +10,15 @@ Escherichia coli is a common bacterial species in the gastrointestinal tracts of
 
 
 ## Description of files:
-### SupplementalTableS1.csv: Samples specification, serotypes, associated pathovars and virulence and AMR genes
-### SupplementalTableS2.csv: Samples specification and associated metadata for external isolates from Enterobase, shown in Supplemental Figure S1.
-### SupplementalTableS3.csv: Table of Ka/Ks values and functional annotations for genes present in >70% of isolates  
-### AlignmentBayesianAnalysis.aln: SNP alignemnt for strains used in the Bayesian anslysis
-### core_genome_snps_alignment.aln: SNP alignemnt for variants in the core genome of 119 strains of wild hosts origins
-### gene_presence_absence.csv: Presence absence gene for the pan-genome of 119 strains file from Roary 
+### SupplementalTableS1.csv: 
+Samples specification, serotypes, associated pathovars and virulence and AMR genes
+### SupplementalTableS2.csv: 
+Samples specification and associated metadata for external isolates from Enterobase, shown in Supplemental Figure S1.
+### SupplementalTableS3.csv: 
+Table of Ka/Ks values and functional annotations for genes present in >70% of isolates  
+### AlignmentBayesianAnalysis.aln: 
+SNP alignemnt for strains used in the Bayesian anslysis
+### core_genome_snps_alignment.aln: 
+SNP alignemnt for variants in the core genome of 119 strains of wild hosts origins
+### gene_presence_absence.csv: 
+Presence absence gene for the pan-genome of 119 strains file from Roary 
