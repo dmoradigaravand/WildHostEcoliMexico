@@ -1,7 +1,7 @@
 # WildHostEcoliMexico
 
 
-## Metadata and intermediate for the manuscript, entitiled "Genomic epidemiology and evolution of Escherichia coli in wild animals in Mexico"
+## Metadata and intermediate for "Genomic epidemiology and evolution of Escherichia coli in wild animals in Mexico"
 ### Authors: Robert Murphy, Martin Palm, Ville Mustonen, Jonas Warringer, Anne Farewel, Leopold Parts,Danesh Moradigaravand
 
 
