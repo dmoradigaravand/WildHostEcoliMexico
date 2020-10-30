@@ -1,0 +1,1869 @@
+Run,Country,ST_N,DataBase,Phylogroup_N,Human_N,Source_an,Collection.B,Collection.Year,Source,Continet
+SRR3726168,NF,69,Enterobase,D,Non,Animal,1997,1997,Animal,NF
+SRR3734057,United States,16,Enterobase,B1,Non,Animal,2006,2006,Animal,North America
+SRR3734058,United States,16,Enterobase,B1,Non,Animal,2006,2006,Animal,North America
+SRR3824148,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR3824215,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR3824226,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR3824539,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR3824540,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR3928762,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3928764,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3928766,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3928767,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3928769,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3928770,United States,1172,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR3951479,United States,48,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3951480,United States,48,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3973069,United States,10,Enterobase,A,Non,Animal,1997,1997,Animal,North America
+SRR3977079,United States,10,Enterobase,A,Non,Animal,1998,1998,Animal,North America
+SRR3987628,United States,2248,Enterobase,NF,Non,Animal,1991,1991,Animal,North America
+SRR3987919,United States,48,Enterobase,A,Non,Animal,1987,1987,Animal,North America
+SRR3987945,Hungary,335,Enterobase,NF,Non,Animal,1988,1988,Animal,Europe
+SRR3987968,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3987970,United States,29,Enterobase,B1,Non,Animal,1981,1981,Animal,North America
+SRR3989740,United States,641,Enterobase,NF,Non,Animal,1993,1993,Animal,North America
+SRR3989743,United States,10,Enterobase,A,Non,Animal,1993,1993,Animal,North America
+SRR4340475,NF,10,Enterobase,A,Non,Animal,NF,NF,Animal,NF
+SRR4340476,Italy,10,Enterobase,A,Non,Animal,NF,NF,Animal,Europe
+SRR4340520,NF,29,Enterobase,B1,Non,Animal,NF,NF,Animal,NF
+SRR4340521,NF,29,Enterobase,B1,Non,Animal,NF,NF,Animal,NF
+SRR5185881,United States,200,Enterobase,B1,Non,Animal,1993,1993,Animal,North America
+SRR6412358,United States,29,Enterobase,B1,Non,Animal,1987,1987,Animal,North America
+SRR6412470,United States,641,Enterobase,NF,Non,Animal,1987,1987,Animal,North America
+SRR6412941,United States,278,Enterobase,AxB1,Non,Animal,1987,1987,Animal,North America
+SRR6413768,United States,29,Enterobase,B1,Non,Animal,1987,1987,Animal,North America
+SRR6728028,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR1177174,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177195,United States,973,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1177254,United States,1582,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1177280,United States,1582,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1177282,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177303,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177545,United States,1582,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1177613,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177632,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177633,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177638,United States,1727,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1177642,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1177643,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1178256,United States,218,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1178262,United States,973,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR1178267,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1178269,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1181524,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1201358,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1207541,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1220804,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1263427,United States,69,Enterobase,D,Non,Animal,2013,2013,Animal,North America
+SRR1263435,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1263443,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1264974,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1505392,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1505406,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1505466,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1505480,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR1914399,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR1914401,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR1916372,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR1973872,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2085604,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085678,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085699,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085736,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085789,United States,29,Enterobase,B1,Non,Animal,2009,2009,Animal,North America
+SRR2133164,United States,1721,Enterobase,NF,Non,Animal,2009,2009,Animal,North America
+SRR2133165,United States,847,Enterobase,NF,Non,Animal,2009,2009,Animal,North America
+SRR2133166,United States,69,Enterobase,D,Non,Animal,2009,2009,Animal,North America
+SRR2133187,United States,69,Enterobase,D,Non,Animal,2009,2009,Animal,North America
+SRR2133217,United States,69,Enterobase,D,Non,Animal,2009,2009,Animal,North America
+SRR2133342,United States,1308,Enterobase,NF,Non,Animal,2009,2009,Animal,North America
+SRR2133399,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2970228,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR2970229,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970233,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR3175132,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3175215,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3184068,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR3466321,United States,1276,Enterobase,NF,Non,Animal,2007,2007,Animal,North America
+SRR3657316,United States,641,Enterobase,NF,Non,Animal,1990,1990,Animal,North America
+SRR3657317,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3657336,United States,641,Enterobase,NF,Non,Animal,1990,1990,Animal,North America
+SRR3657338,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3657339,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3657340,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3957106,United States,10,Enterobase,A,Non,Animal,1994,1994,Animal,North America
+SRR3987520,India,847,Enterobase,NF,Non,Animal,1990,1990,Animal,Asia
+SRR3987538,United States,29,Enterobase,B1,Non,Animal,1990,1990,Animal,North America
+SRR3987659,United States,10,Enterobase,A,Non,Animal,1993,1993,Animal,North America
+SRR3987973,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3988152,United States,973,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR3988173,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3989624,United States,10,Enterobase,A,Non,Animal,1993,1993,Animal,North America
+SRR3989755,United States,10,Enterobase,A,Non,Animal,1978,1978,Animal,North America
+SRR3989759,United States,641,Enterobase,NF,Non,Animal,1978,1978,Animal,North America
+SRR4046408,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4259697,United States,1276,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4294964,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181524,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5185883,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR5187823,United States,10,Enterobase,A,Non,Animal,2003,2003,Animal,North America
+SRR5187830,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR5336246,Mexico,10,Enterobase,A,Non,Animal,2002,2002,Animal,North America
+SRR5336261,United States,10,Enterobase,A,Non,Animal,2003,2003,Animal,North America
+SRR5418482,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5418789,United States,716,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5434364,Uganda,2739,Enterobase,NF,Non,Animal,2016,2016,Animal,Africa
+SRR5434365,Uganda,2739,Enterobase,NF,Non,Animal,2016,2016,Animal,Africa
+SRR5434369,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5434398,Uganda,847,Enterobase,NF,Non,Animal,2016,2016,Animal,Africa
+SRR5445211,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5452208,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5452293,Uganda,48,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5459094,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5459099,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5459132,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5470013,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5470016,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5487895,United States,716,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR5488047,Uganda,48,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5527060,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5527064,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5527065,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5527069,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5646655,Uganda,641,Enterobase,NF,Non,Animal,2016,2016,Animal,Africa
+SRR5646680,Uganda,10,Enterobase,A,Non,Animal,2016,2016,Animal,Africa
+SRR5890307,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR5901521,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5912890,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6039973,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6231922,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6231927,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6238122,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6238137,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6292599,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6373154,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6373155,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6373589,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6398702,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR6441142,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6495067,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6505022,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6505049,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6680335,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6680605,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6680677,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6681098,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6682075,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6682898,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6683744,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6683745,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6788247,United States,423,Enterobase,NF,Non,Animal,2005,2005,Animal,North America
+SRR6788248,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR6793090,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6793286,United States,28,Enterobase,ABD,Non,Animal,2003,2003,Animal,North America
+SRR6793414,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6793748,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6821046,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR6933164,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6940347,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6940385,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6973081,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6979753,United States,1721,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR6979754,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6985859,United States,48,Enterobase,A,Non,Animal,1998,1998,Animal,North America
+SRR6986335,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7011854,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7041735,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR7041750,United States,48,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR7066521,United States,1308,Enterobase,NF,Non,Animal,2000,2000,Animal,North America
+SRR7096236,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7135441,United States,10,Enterobase,A,Non,Animal,1978,1978,Animal,North America
+SRR7140556,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7140587,United States,48,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7140596,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7140612,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7192406,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7439124,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7439324,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7439325,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7468995,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7495365,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7501040,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7615128,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7615180,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7624326,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7635019,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7661056,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7661172,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7754562,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7754596,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7789478,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7903294,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR8080802,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR8095287,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095293,United States,2334,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095302,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095329,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095367,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095384,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095406,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095407,United States,1276,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095425,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095438,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095449,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095455,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095485,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095493,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095496,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095519,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095618,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095647,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095683,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095701,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095706,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095745,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095753,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095755,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR8095764,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095837,United States,29,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR8095877,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095912,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095938,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095960,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095963,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5018303,United Kingdom,127,Enterobase,B2,NF,NF,2015,2015,NF,Europe
+SRR5023679,United Kingdom,335,Enterobase,NF,NF,NF,2015,2015,NF,Europe
+SRR5030784,United Kingdom,218,Enterobase,A,NF,NF,2015,2015,NF,Europe
+SRR5030805,United Kingdom,10,Enterobase,A,NF,NF,2016,2016,NF,Europe
+SRR5031110,United Kingdom,29,Enterobase,B1,NF,NF,2016,2016,NF,Europe
+SRR5031169,United Kingdom,10,Enterobase,A,NF,NF,2016,2016,NF,Europe
+SRR5031192,United Kingdom,127,Enterobase,B2,NF,NF,2015,2015,NF,Europe
+SRR5031243,United Kingdom,28,Enterobase,ABD,NF,NF,2015,2015,NF,Europe
+SRR5033646,United Kingdom,10,Enterobase,A,NF,NF,2013,2013,NF,Europe
+SRR5335920,United States,641,Enterobase,NF,NF,NF,1987,1987,NF,North America
+SRR5470159,United Kingdom,10,Enterobase,A,NF,NF,2016,2016,NF,Europe
+SRR5649223,United States,10,Enterobase,A,NF,NF,2015,2015,NF,North America
+SRR5650197,United States,10,Enterobase,A,NF,NF,2015,2015,NF,North America
+SRR5650513,United States,48,Enterobase,A,NF,NF,2014,2014,NF,North America
+SRR5659129,United States,48,Enterobase,A,NF,NF,2015,2015,NF,North America
+SRR5659154,United States,10,Enterobase,A,NF,NF,2015,2015,NF,North America
+SRR5942287,United States,2522,Enterobase,NF,NF,NF,2017,2017,NF,North America
+SRR6109138,United States,29,Enterobase,B1,NF,NF,2017,2017,NF,North America
+SRR6109202,United States,737,Enterobase,NF,NF,NF,2017,2017,NF,North America
+SRR7064476,United States,127,Enterobase,B2,NF,NF,2017,2017,NF,North America
+SRR7798779,United States,127,Enterobase,B2,NF,NF,2018,2018,NF,North America
+SRR7799158,United States,200,Enterobase,B1,NF,NF,2018,2018,NF,North America
+SRR1505404,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2054383,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085676,United States,278,Enterobase,AxB1,Non,Animal,2009,2009,Animal,North America
+SRR2085683,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2085737,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR2174083,United States,16,Enterobase,B1,Non,Animal,NF,NF,Animal,North America
+SRR2775032,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR2920453,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR2970151,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970169,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970172,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970173,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR2970179,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970183,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970185,United States,1727,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR2970191,United States,1172,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR2970194,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970195,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970196,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970202,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970206,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970215,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970234,United States,867,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR2970237,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970242,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970258,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR2970261,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970271,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR2970272,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR2970273,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970282,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970285,United States,1308,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR2970288,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR2970897,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR2986093,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3016030,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3016132,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3016233,United States,29,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3018367,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018368,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018369,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018370,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018371,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018372,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018374,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018375,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018376,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018377,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018378,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018379,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018380,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018381,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018382,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018383,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018384,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018385,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018386,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018387,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018388,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018389,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018390,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018391,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018393,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018394,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018395,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018396,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018397,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018398,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018399,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018400,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018401,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018402,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018403,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018405,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018406,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018407,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018408,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3018409,United States,29,Enterobase,B1,Non,Animal,2011,2011,Animal,North America
+SRR3098448,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3241694,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3403678,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3405514,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3406061,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3437873,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3437877,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3438299,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3438300,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3438302,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3438304,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3438310,United States,641,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3438317,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3440342,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3457713,United States,2354,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3457717,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3457724,United States,641,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3457728,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3457735,United States,2354,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3457776,United States,16,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR3465472,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3465491,United States,2522,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3465506,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3465509,United States,127,Enterobase,B2,Non,Animal,1983,1983,Animal,North America
+SRR3465510,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3466318,United States,2521,Enterobase,NF,Non,Animal,2006,2006,Animal,North America
+SRR3466383,United States,10,Enterobase,A,Non,Animal,2008,2008,Animal,North America
+SRR3466385,United States,641,Enterobase,NF,Non,Animal,2008,2008,Animal,North America
+SRR3657383,United States,737,Enterobase,NF,Non,Animal,1988,1988,Animal,North America
+SRR3657384,New Zealand,10,Enterobase,A,Non,Animal,1988,1988,Animal,Oceania
+SRR3657427,United States,10,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR3726211,United States,641,Enterobase,NF,Non,Animal,1975,1975,Animal,North America
+SRR3825876,United States,278,Enterobase,AxB1,Non,Animal,1995,1995,Animal,North America
+SRR3951481,Indonesia,48,Enterobase,A,Non,Animal,1995,1995,Animal,Asia
+SRR3957064,United States,278,Enterobase,AxB1,Non,Animal,1994,1994,Animal,North America
+SRR3957068,United States,1727,Enterobase,NF,Non,Animal,1987,1987,Animal,North America
+SRR3957086,United States,641,Enterobase,NF,Non,Animal,1996,1996,Animal,North America
+SRR3957087,United States,641,Enterobase,NF,Non,Animal,1996,1996,Animal,North America
+SRR3957088,United States,69,Enterobase,D,Non,Animal,1996,1996,Animal,North America
+SRR3957116,Canada,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3971191,United States,423,Enterobase,NF,Non,Animal,1975,1975,Animal,North America
+SRR3971766,United States,29,Enterobase,B1,Non,Animal,1995,1995,Animal,North America
+SRR3971770,United States,10,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3971772,United States,10,Enterobase,A,Non,Animal,1996,1996,Animal,North America
+SRR3972635,United States,10,Enterobase,A,Non,Animal,1997,1997,Animal,North America
+SRR3974397,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3975192,United States,10,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3975209,United States,69,Enterobase,D,Non,Animal,1995,1995,Animal,North America
+SRR3975550,United States,641,Enterobase,NF,Non,Animal,1989,1989,Animal,North America
+SRR3975554,United States,641,Enterobase,NF,Non,Animal,1989,1989,Animal,North America
+SRR3977245,United States,2354,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3977440,United States,48,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3977443,United States,29,Enterobase,B1,Non,Animal,1983,1983,Animal,North America
+SRR3986233,United States,2354,Enterobase,NF,Non,Animal,1987,1987,Animal,North America
+SRR3987481,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987502,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987505,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987506,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987530,United States,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3987531,United States,973,Enterobase,NF,Non,Animal,1990,1990,Animal,North America
+SRR3987548,India,10,Enterobase,A,Non,Animal,1990,1990,Animal,Asia
+SRR3987551,Canada,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3987554,Canada,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3987556,Canada,10,Enterobase,A,Non,Animal,1990,1990,Animal,North America
+SRR3987622,United States,973,Enterobase,NF,Non,Animal,1991,1991,Animal,North America
+SRR3987627,United States,10,Enterobase,A,Non,Animal,1991,1991,Animal,North America
+SRR3987635,United States,10,Enterobase,A,Non,Animal,1992,1992,Animal,North America
+SRR3987669,United States,278,Enterobase,AxB1,Non,Animal,1980,1980,Animal,North America
+SRR3987671,United States,641,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR3987672,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3987681,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987688,United States,10,Enterobase,A,Non,Animal,1986,1986,Animal,North America
+SRR3987691,United States,847,Enterobase,NF,Non,Animal,1986,1986,Animal,North America
+SRR3987697,United States,48,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987700,United States,28,Enterobase,ABD,Non,Animal,1983,1983,Animal,North America
+SRR3987713,United States,48,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987715,United States,127,Enterobase,B2,Non,Animal,1983,1983,Animal,North America
+SRR3987720,United States,641,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3987722,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3987729,United States,973,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3987731,United States,69,Enterobase,D,Non,Animal,1983,1983,Animal,North America
+SRR3987749,United States,973,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3987898,United States,1308,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3987937,United States,10,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR3987942,United States,10,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR3987949,United States,10,Enterobase,A,Non,Animal,1978,1978,Animal,North America
+SRR3987950,United States,641,Enterobase,NF,Non,Animal,1978,1978,Animal,North America
+SRR3987963,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3987985,United States,2521,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR3987986,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3987987,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3987988,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3988015,United States,130,Enterobase,D,Non,Animal,1983,1983,Animal,North America
+SRR3988040,United States,127,Enterobase,B2,Non,Animal,1983,1983,Animal,North America
+SRR3988045,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3988062,United States,2521,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3988106,United States,2248,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3988107,United States,2248,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR3988108,United States,69,Enterobase,D,Non,Animal,1983,1983,Animal,North America
+SRR3988112,United States,278,Enterobase,AxB1,Non,Animal,1983,1983,Animal,North America
+SRR3988116,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3988119,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3988121,United States,641,Enterobase,NF,Non,Animal,1982,1982,Animal,North America
+SRR3988122,United States,1248,Enterobase,NF,Non,Animal,1982,1982,Animal,North America
+SRR3988123,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR3988126,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR3988127,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR3988134,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR3988137,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR3988143,United States,641,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR3988156,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3988158,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3988164,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3988165,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR3988170,United States,278,Enterobase,AxB1,Non,Animal,1981,1981,Animal,North America
+SRR3988171,United States,10,Enterobase,A,Non,Animal,1981,1981,Animal,North America
+SRR3988181,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3988188,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3988191,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3989582,United States,129,Enterobase,B1,Non,Animal,2013,2013,Animal,North America
+SRR3989583,United States,10,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR3989586,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR3989589,United States,48,Enterobase,A,Non,Animal,2013,2013,Animal,North America
+SRR3989692,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3989732,United States,130,Enterobase,D,Non,Animal,1983,1983,Animal,North America
+SRR3989747,United States,10,Enterobase,A,Non,Animal,1976,1976,Animal,North America
+SRR3989782,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR3989783,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR3989801,United States,278,Enterobase,AxB1,Non,Animal,1979,1979,Animal,North America
+SRR3989803,United States,218,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR3989804,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR3993746,United States,29,Enterobase,B1,Non,Animal,1999,1999,Animal,North America
+SRR3993752,China,10,Enterobase,A,Non,Animal,2000,2000,Animal,Asia
+SRR3993770,China,10,Enterobase,A,Non,Animal,2000,2000,Animal,Asia
+SRR3993777,United States,641,Enterobase,NF,Non,Animal,2000,2000,Animal,North America
+SRR3993778,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR3993780,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR3993854,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3993865,United States,127,Enterobase,B2,Non,Animal,1983,1983,Animal,North America
+SRR3993866,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR3993872,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR4046407,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4046413,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4069557,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR4175534,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294807,United States,1727,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4294809,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294818,United States,1727,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4294820,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294833,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294956,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR4294962,United States,1248,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4294975,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR4301124,United States,641,Enterobase,NF,Non,Animal,2016,2016,Animal,North America
+SRR4340448,United States,10,Enterobase,A,Non,Animal,2016,2016,Animal,North America
+SRR4340509,United Kingdom,16,Enterobase,B1,Non,Animal,NF,NF,Animal,Europe
+SRR4340510,United Kingdom,16,Enterobase,B1,Non,Animal,NF,NF,Animal,Europe
+SRR4417885,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417886,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417887,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417888,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417889,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417890,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417891,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417892,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417893,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417894,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417895,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417897,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417898,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR4417899,United States,29,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR5117050,United States,278,Enterobase,AxB1,Non,Animal,2016,2016,Animal,North America
+SRR5117051,United States,10,Enterobase,A,Non,Animal,2016,2016,Animal,North America
+SRR5117052,United States,10,Enterobase,A,Non,Animal,2016,2016,Animal,North America
+SRR5117054,United States,48,Enterobase,A,Non,Animal,2016,2016,Animal,North America
+SRR5181517,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR5181550,United States,1727,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5185882,United States,40,Enterobase,B1,Non,Animal,1983,1983,Animal,North America
+SRR5187825,United States,278,Enterobase,AxB1,Non,Animal,1979,1979,Animal,North America
+SRR5330818,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR5336217,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR5336239,United States,2521,Enterobase,NF,Non,Animal,2001,2001,Animal,North America
+SRR5336281,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR5336297,United States,127,Enterobase,B2,Non,Animal,2001,2001,Animal,North America
+SRR5341971,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR5470038,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5470040,United States,847,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR5470828,United States,16,Enterobase,B1,Non,Animal,1998,1998,Animal,North America
+SRR5470986,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5471002,United States,69,Enterobase,D,Non,Animal,1997,1997,Animal,North America
+SRR5487915,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5487916,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5487918,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5526028,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5648037,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5648040,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR5680928,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5683221,United States,16,Enterobase,B1,Non,Animal,2000,2000,Animal,North America
+SRR5683232,United States,16,Enterobase,B1,Non,Animal,2000,2000,Animal,North America
+SRR5851440,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5851441,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR5862400,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5862406,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR5865594,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR5901510,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR5912883,United States,2562,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR5956528,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR5958610,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR5958628,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6010183,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6010191,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6051640,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR6051674,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6051678,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6179363,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6179820,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6219337,United States,278,Enterobase,AxB1,Non,Animal,2014,2014,Animal,North America
+SRR6219405,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR6219406,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR6219409,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR6220197,United States,1308,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6220296,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6231917,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6231925,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6231936,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6238129,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR6292791,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6292807,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6314301,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6314303,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6314825,United States,2522,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6367149,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6367411,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6372967,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6373603,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6373608,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6388498,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6388499,United States,16,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6412360,United States,278,Enterobase,AxB1,Non,Animal,1987,1987,Animal,North America
+SRR6426321,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6427360,United States,1276,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR6427365,United States,69,Enterobase,D,Non,Animal,1983,1983,Animal,North America
+SRR6427421,United States,10,Enterobase,A,Non,Animal,1999,1999,Animal,North America
+SRR6428533,China,10,Enterobase,A,Non,Animal,2000,2000,Animal,Asia
+SRR6438320,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6438326,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6441250,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR6441270,United States,973,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR6441272,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR6459232,United States,1307,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6459234,United States,2521,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6491200,United States,2521,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6491681,United States,847,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6491689,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6495215,United States,2522,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6495229,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6495249,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6495257,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6495283,United States,2522,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6497955,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6498072,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6505024,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6505025,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6512620,United States,335,Enterobase,NF,Non,Animal,2007,2007,Animal,North America
+SRR6703293,United States,10,Enterobase,A,Non,Animal,2009,2009,Animal,North America
+SRR6703990,United States,29,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR6713429,United States,1721,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR6726552,United States,218,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR6726616,United States,29,Enterobase,B1,Non,Animal,1988,1988,Animal,North America
+SRR6726721,United States,10,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR6727480,United States,847,Enterobase,NF,Non,Animal,1998,1998,Animal,North America
+SRR6728013,United States,10,Enterobase,A,Non,Animal,1988,1988,Animal,North America
+SRR6764214,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6764225,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6766643,United States,29,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR6787315,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR6787475,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR6787682,United States,1308,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR6788298,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR6788324,United States,641,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR6793386,United States,10,Enterobase,A,Non,Animal,1980,1980,Animal,North America
+SRR6793447,United States,641,Enterobase,NF,Non,Animal,1980,1980,Animal,North America
+SRR6793686,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6793689,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6793747,United States,10,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6793749,United States,48,Enterobase,A,Non,Animal,1979,1979,Animal,North America
+SRR6837379,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6843307,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR6844252,United States,29,Enterobase,B1,Non,Animal,2018,2018,Animal,North America
+SRR6844255,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR6919205,United States,641,Enterobase,NF,Non,Animal,2000,2000,Animal,North America
+SRR6920769,United States,641,Enterobase,NF,Non,Animal,2000,2000,Animal,North America
+SRR6921447,United States,48,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR6933159,United States,2522,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR6979758,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR6979759,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR6985968,United States,641,Enterobase,NF,Non,Animal,1983,1983,Animal,North America
+SRR6986380,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR6986381,United States,16,Enterobase,B1,Non,Animal,2018,2018,Animal,North America
+SRR7009029,United States,48,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7011861,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7064601,United States,29,Enterobase,B1,Non,Animal,2000,2000,Animal,North America
+SRR7064623,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR7066501,Argentina,48,Enterobase,A,Non,Animal,2000,2000,Animal,South America
+SRR7066571,United States,10,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR7084491,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7084528,United States,1172,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7095840,United States,218,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7095842,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7096228,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7096229,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7135403,United States,641,Enterobase,NF,Non,Animal,1999,1999,Animal,North America
+SRR7135459,United States,641,Enterobase,NF,Non,Animal,1982,1982,Animal,North America
+SRR7135490,United States,10,Enterobase,A,Non,Animal,1999,1999,Animal,North America
+SRR7140590,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7154582,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7186449,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR7192401,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7192442,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7192738,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7221510,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7227917,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR7231580,United States,1248,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR7257259,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257284,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257301,United States,48,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257302,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257314,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257333,United States,48,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7257343,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7284516,United States,10,Enterobase,A,Non,Animal,2002,2002,Animal,North America
+SRR7284660,United States,69,Enterobase,D,Non,Animal,2002,2002,Animal,North America
+SRR7284863,United States,10,Enterobase,A,Non,Animal,2002,2002,Animal,North America
+SRR7359646,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7359647,United States,2522,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7360400,United States,1308,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7360402,United States,2521,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7360588,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7406081,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7406090,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7406173,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7406187,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7406190,United States,218,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7439028,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7439292,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7439293,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7439637,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7458229,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7458234,United States,1308,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7468974,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7495371,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7495375,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7500860,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7543351,United States,2521,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7543353,United States,2522,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7543354,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7613440,United States,16,Enterobase,B1,Non,Animal,2014,2014,Animal,North America
+SRR7613584,United States,69,Enterobase,D,Non,Animal,2018,2018,Animal,North America
+SRR7613598,United States,641,Enterobase,NF,Non,Animal,2015,2015,Animal,North America
+SRR7613651,United States,2522,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7613653,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7613659,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7613665,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7613666,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7613729,United States,1308,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR7615174,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7638034,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR7638095,United States,847,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7647876,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR7652999,United States,29,Enterobase,B1,Non,Animal,2017,2017,Animal,North America
+SRR7657525,United States,29,Enterobase,B1,Non,Animal,2018,2018,Animal,North America
+SRR7661301,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7690505,United States,69,Enterobase,D,Non,Animal,1982,1982,Animal,North America
+SRR7690509,United States,127,Enterobase,B2,Non,Animal,1982,1982,Animal,North America
+SRR7693504,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7693528,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7693570,United States,1248,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7693577,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7707882,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7707894,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7707900,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7707901,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7707904,United States,278,Enterobase,AxB1,Non,Animal,2018,2018,Animal,North America
+SRR7749421,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR7754547,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7754561,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7758785,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7759302,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7786657,United States,973,Enterobase,NF,Non,Animal,2016,2016,Animal,North America
+SRR7786672,United States,10,Enterobase,A,Non,Animal,2001,2001,Animal,North America
+SRR7786689,United States,48,Enterobase,A,Non,Animal,2000,2000,Animal,North America
+SRR7786691,China,10,Enterobase,A,Non,Animal,2000,2000,Animal,Asia
+SRR7786734,United States,10,Enterobase,A,Non,Animal,2001,2001,Animal,North America
+SRR7789456,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7789457,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7789879,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7820151,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7820162,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7820172,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7827020,United States,1727,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7827022,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7827028,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7870863,United States,10,Enterobase,A,Non,Animal,1975,1975,Animal,North America
+SRR7870869,United States,10,Enterobase,A,Non,Animal,1975,1975,Animal,North America
+SRR7870872,United States,10,Enterobase,A,Non,Animal,1975,1975,Animal,North America
+SRR7870875,United States,29,Enterobase,B1,Non,Animal,1975,1975,Animal,North America
+SRR7903296,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7903592,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7903594,United States,48,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7940736,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR7942833,United States,16,Enterobase,B1,Non,Animal,2018,2018,Animal,North America
+SRR8080756,United States,641,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR8080798,United States,2522,Enterobase,NF,Non,Animal,2018,2018,Animal,North America
+SRR8095313,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095332,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095398,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095413,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095436,United States,106,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095490,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095548,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095567,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095568,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095594,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR8095596,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095688,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095703,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095721,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR8095725,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095733,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR8095739,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095751,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR8095779,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095786,United States,278,Enterobase,AxB1,Non,Animal,2017,2017,Animal,North America
+SRR8095794,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095823,United States,48,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095869,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095873,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR8095894,United States,2521,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095900,United States,1727,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095913,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR8095989,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR3736530,Denmark,10,Enterobase,A,NF,NF,2014,2014,NF,Europe
+SRR1283287,United Kingdom,278,Enterobase,AxB1,Human,Human,2014,2014,Human,Europe
+SRR1283288,United Kingdom,278,Enterobase,AxB1,Human,Human,2014,2014,Human,Europe
+SRR1283290,United Kingdom,10,Enterobase,A,Human,Human,2014,2014,Human,Europe
+SRR1795824,United States,127,Enterobase,B2,Human,Human,NF,NF,Human,North America
+SRR1795868,United States,127,Enterobase,B2,Human,Human,NF,NF,Human,North America
+SRR1795963,United States,69,Enterobase,D,Human,Human,NF,NF,Human,North America
+SRR1795971,United States,48,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR1795975,United States,127,Enterobase,B2,Human,Human,NF,NF,Human,North America
+SRR1800045,United States,69,Enterobase,D,Human,Human,NF,NF,Human,North America
+SRR1981019,United Kingdom,29,Enterobase,B1,Human,Human,NF,NF,Human,Europe
+SRR1981027,United Kingdom,2101,Enterobase,NF,Human,Human,NF,NF,Human,Europe
+SRR1981075,United Kingdom,29,Enterobase,B1,Human,Human,NF,NF,Human,Europe
+SRR1981197,United Kingdom,16,Enterobase,B1,Human,Human,NF,NF,Human,Europe
+SRR1981365,United Kingdom,200,Enterobase,B1,Human,Human,NF,NF,Human,Europe
+SRR1981697,United Kingdom,10,Enterobase,A,Human,Human,NF,NF,Human,Europe
+SRR2014841,United States,29,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR2014855,United States,641,Enterobase,NF,Human,Human,NF,NF,Human,North America
+SRR2014858,United States,10,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR2014859,United States,10,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR2014860,United States,10,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR2015147,United States,29,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR2035369,United Kingdom,29,Enterobase,B1,Human,Human,2012,2012,Human,Europe
+SRR2035376,United Kingdom,29,Enterobase,B1,Human,Human,2013,2013,Human,Europe
+SRR2035402,United Kingdom,29,Enterobase,B1,Human,Human,2013,2013,Human,Europe
+SRR2177965,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR2177980,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR2177989,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR2178051,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR2178201,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR2982182,United States,16,Enterobase,B1,Human,Human,2012,2012,Human,North America
+SRR2982183,United States,16,Enterobase,B1,Human,Human,2012,2012,Human,North America
+SRR2993303,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR2993311,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3040537,United States,29,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3040538,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3146363,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3240965,United Kingdom,278,Enterobase,AxB1,Human,Human,2014,2014,Human,Europe
+SRR3240966,United Kingdom,29,Enterobase,B1,Human,Human,2014,2014,Human,Europe
+SRR3240971,United Kingdom,10,Enterobase,A,Human,Human,2014,2014,Human,Europe
+SRR3240980,United Kingdom,10,Enterobase,A,Human,Human,2014,2014,Human,Europe
+SRR3240983,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3240985,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3240986,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241097,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241840,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241843,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241857,United Kingdom,10,Enterobase,A,Human,Human,2014,2014,Human,Europe
+SRR3241858,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241872,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3241987,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3242000,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3242001,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR3371797,United States,16,Enterobase,B1,Human,Human,2008,2008,Human,North America
+SRR3394781,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3394783,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3394786,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3405556,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3410242,United States,1276,Enterobase,NF,Human,Human,2006,2006,Human,North America
+SRR3410781,United States,10,Enterobase,A,Human,Human,2006,2006,Human,North America
+SRR3466378,United States,1972,Enterobase,NF,Human,Human,2007,2007,Human,North America
+SRR3466379,United States,737,Enterobase,NF,Human,Human,2007,2007,Human,North America
+SRR3531875,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3545384,United States,127,Enterobase,B2,Human,Human,2015,2015,Human,North America
+SRR3573435,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574028,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574223,United Kingdom,130,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR3574241,United Kingdom,127,Enterobase,B2,Human,Human,2016,2016,Human,Europe
+SRR3574242,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574249,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574251,United Kingdom,16,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574268,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574271,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574275,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574277,United Kingdom,28,Enterobase,ABD,Human,Human,2016,2016,Human,Europe
+SRR3574280,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574281,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574284,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3574292,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574296,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574297,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574300,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3574305,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR3574306,United Kingdom,48,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574307,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574308,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3574319,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR3578156,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578159,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578162,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578165,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578166,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR3578454,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578455,United Kingdom,2356,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578577,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578581,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578583,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578589,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578601,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578602,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578604,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578616,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578620,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578622,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578626,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578629,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR3578636,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578639,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578642,United Kingdom,127,Enterobase,B2,Human,Human,2016,2016,Human,Europe
+SRR3578643,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578658,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3578659,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578665,United Kingdom,788,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578666,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578667,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578669,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578766,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578767,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578785,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578788,United Kingdom,788,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578791,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578793,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578806,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR3578809,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578907,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578908,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3578912,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578913,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578915,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578918,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578920,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578922,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578928,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578930,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578935,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3578938,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR3578942,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3578944,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3578952,United Kingdom,69,Enterobase,D,Human,Human,2012,2012,Human,Europe
+SRR3578958,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3578974,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR3578975,United Kingdom,48,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR3578977,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3578991,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3579204,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3579302,United Kingdom,130,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3579361,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3579367,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3579382,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3579395,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3579398,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3579399,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3579403,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581319,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581327,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR3581339,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581354,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581355,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581361,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581365,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581371,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR3581372,United Kingdom,48,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581376,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581377,United Kingdom,16,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3581380,United Kingdom,48,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581381,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581392,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581393,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3581397,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR3581399,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581400,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581424,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581428,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581432,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581433,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581436,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3581439,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR3581444,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3581640,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR3657428,Mexico,106,Enterobase,D,Human,Human,1988,1988,Human,North America
+SRR3657572,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3657580,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3657582,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3742205,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR3742246,United Kingdom,2101,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR3773768,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR3883023,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3883027,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR3883035,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3921648,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3921649,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3931386,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR3951467,United States,10,Enterobase,A,Human,Human,1995,1995,Human,North America
+SRR3951470,United States,10,Enterobase,A,Human,Human,1995,1995,Human,North America
+SRR3951471,Sweden,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR3951474,Sweden,10,Enterobase,A,Human,Human,NF,NF,Human,Europe
+SRR3957097,Zambia,10,Enterobase,A,Human,Human,1994,1994,Human,Africa
+SRR3971774,Zambia,10,Enterobase,A,Human,Human,1994,1994,Human,Africa
+SRR3972137,United States,641,Enterobase,NF,Human,Human,1996,1996,Human,North America
+SRR3974733,Zambia,10,Enterobase,A,Human,Human,1994,1994,Human,Africa
+SRR3974848,Zambia,10,Enterobase,A,Human,Human,1994,1994,Human,Africa
+SRR3974853,Zambia,10,Enterobase,A,Human,Human,1994,1994,Human,Africa
+SRR3987540,United States,973,Enterobase,NF,Human,Human,1990,1990,Human,North America
+SRR3987579,Saudi Arabia,423,Enterobase,NF,Human,Human,1991,1991,Human,Asia
+SRR3987643,United States,127,Enterobase,B2,Human,Human,1992,1992,Human,North America
+SRR3987645,United States,127,Enterobase,B2,Human,Human,1992,1992,Human,North America
+SRR3987932,Mexico,10,Enterobase,A,Human,Human,1988,1988,Human,North America
+SRR3988132,United States,10,Enterobase,A,Human,Human,1982,1982,Human,North America
+SRR3989745,India,10,Enterobase,A,Human,Human,1992,1992,Human,Asia
+SRR3990954,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3990962,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3990963,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3990967,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR3993812,India,10,Enterobase,A,Human,Human,1992,1992,Human,Asia
+SRR4019248,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR4031433,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR4031434,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR4031435,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR4048679,United States,16,Enterobase,B1,Human,Human,2016,2016,Human,North America
+SRR4054727,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR4101399,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR4113443,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR4179257,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR4179996,United Kingdom,16,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR4180191,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4181449,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4184697,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR4184735,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR4184740,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4184832,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4184853,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR4184863,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR4195476,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4195719,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4195734,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR4260604,United States,10,Enterobase,A,Human,Human,1985,1985,Human,North America
+SRR4261770,United States,69,Enterobase,D,Human,Human,1985,1985,Human,North America
+SRR4263053,United States,127,Enterobase,B2,Human,Human,1985,1985,Human,North America
+SRR4263648,United States,10,Enterobase,A,Human,Human,1985,1985,Human,North America
+SRR4299829,United States,16,Enterobase,B1,Human,Human,2016,2016,Human,North America
+SRR4340473,United States,106,Enterobase,D,Human,Human,1985,1985,Human,North America
+SRR4340494,Belgium,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR4340506,United States,28,Enterobase,ABD,Human,Human,1979,1979,Human,North America
+SRR4417901,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR4787150,United Kingdom,28,Enterobase,ABD,Human,Human,2016,2016,Human,Europe
+SRR4787196,United Kingdom,130,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR4787205,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4787298,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4787340,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4787406,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4787411,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4787416,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4787715,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR4787734,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4787750,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR4787754,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4787913,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4788077,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR4788162,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4788166,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4788179,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR4788224,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4788276,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4788303,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4788332,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR4897095,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897107,United Kingdom,1721,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR4897129,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR4897190,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897276,United Kingdom,10,Enterobase,A,Human,Human,2011,2011,Human,Europe
+SRR4897286,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897307,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897315,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4897325,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897334,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR4897345,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897398,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897463,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4897595,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4897608,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR4897658,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR4897698,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR4897723,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR4897739,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4897740,United Kingdom,130,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR4897754,United Kingdom,278,Enterobase,AxB1,Human,Human,2016,2016,Human,Europe
+SRR4897812,United Kingdom,48,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR4897829,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR5005294,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5005301,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5005347,United Kingdom,16,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5005524,United Kingdom,16,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5005559,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5006047,United Kingdom,16,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5006053,United Kingdom,538,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5006063,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5006066,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5006087,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5006408,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5006410,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5017314,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5017468,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR5017485,United Kingdom,127,Enterobase,B2,Human,Human,2015,2015,Human,Europe
+SRR5018179,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5018289,United Kingdom,2101,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5018318,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5023685,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5023697,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023701,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023710,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023715,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023716,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023727,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023769,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023770,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023777,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023782,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023783,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023789,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023792,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023803,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5023805,United Kingdom,200,Enterobase,B1,Human,Human,2014,2014,Human,Europe
+SRR5023893,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5023932,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5023941,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5024167,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5024176,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5024181,United Kingdom,16,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5024189,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5024249,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5024526,United Kingdom,788,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR5029668,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5029672,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5029677,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5029693,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5029845,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5030794,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5030795,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5030825,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5030830,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5031151,United Kingdom,130,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR5031161,United Kingdom,28,Enterobase,ABD,Human,Human,2015,2015,Human,Europe
+SRR5031163,United Kingdom,28,Enterobase,ABD,Human,Human,2015,2015,Human,Europe
+SRR5031164,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5031165,United Kingdom,737,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5031172,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5031189,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5031213,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5031214,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5031215,United Kingdom,278,Enterobase,AxB1,Human,Human,2015,2015,Human,Europe
+SRR5031229,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5031236,United Kingdom,40,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5033647,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR5033648,United Kingdom,335,Enterobase,NF,Human,Human,2013,2013,Human,Europe
+SRR5033651,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5033665,United Kingdom,335,Enterobase,NF,Human,Human,2013,2013,Human,Europe
+SRR5033668,United Kingdom,69,Enterobase,D,Human,Human,2015,2015,Human,Europe
+SRR5033689,United Kingdom,335,Enterobase,NF,Human,Human,2012,2012,Human,Europe
+SRR5033691,United Kingdom,335,Enterobase,NF,Human,Human,2013,2013,Human,Europe
+SRR5033692,United Kingdom,335,Enterobase,NF,Human,Human,2013,2013,Human,Europe
+SRR5033714,United Kingdom,335,Enterobase,NF,Human,Human,2014,2014,Human,Europe
+SRR5033719,United Kingdom,335,Enterobase,NF,Human,Human,2012,2012,Human,Europe
+SRR5033733,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR5035008,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5035014,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5082115,United States,69,Enterobase,D,Human,Human,2015,2015,Human,North America
+SRR5185390,United States,16,Enterobase,B1,Human,Human,1999,1999,Human,North America
+SRR5185399,Germany,29,Enterobase,B1,Human,Human,1996,1996,Human,Europe
+SRR5185402,Germany,29,Enterobase,B1,Human,Human,1996,1996,Human,Europe
+SRR5185880,Saudi Arabia,10,Enterobase,A,Human,Human,1991,1991,Human,Asia
+SRR5187820,Mexico,641,Enterobase,NF,Human,Human,2002,2002,Human,North America
+SRR5246533,United States,69,Enterobase,D,Human,Human,2014,2014,Human,North America
+SRR5280673,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5280674,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5280676,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5280680,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5292070,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5292181,United States,29,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR530146,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR5329207,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5329211,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5329215,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5330832,United States,16,Enterobase,B1,Human,Human,1999,1999,Human,North America
+SRR5330835,United States,69,Enterobase,D,Human,Human,1985,1985,Human,North America
+SRR5330858,United States,16,Enterobase,B1,Human,Human,1998,1998,Human,North America
+SRR5330906,United States,48,Enterobase,A,Human,Human,2016,2016,Human,North America
+SRR5330929,United States,16,Enterobase,B1,Human,Human,2001,2001,Human,North America
+SRR5365067,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR5367693,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5434867,United States,16,Enterobase,B1,Human,Human,2017,2017,Human,North America
+SRR5470158,United Kingdom,130,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR5470162,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5470165,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470216,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5470221,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5470222,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470230,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470231,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470233,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470236,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470241,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470245,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470248,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR5470250,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR5470264,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5470265,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR5485367,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5588540,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR5605990,United States,538,Enterobase,NF,Human,Human,NF,NF,Human,North America
+SRR5605998,United States,538,Enterobase,NF,Human,Human,NF,NF,Human,North America
+SRR5616368,United States,10,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR5649981,United States,48,Enterobase,A,Human,Human,2015,2015,Human,North America
+SRR5660619,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR5666579,United States,641,Enterobase,NF,Human,Human,2015,2015,Human,North America
+SRR5666586,United States,641,Enterobase,NF,Human,Human,2015,2015,Human,North America
+SRR5787746,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR5875737,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR5904106,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR5904128,United Kingdom,335,Enterobase,NF,Human,Human,2015,2015,Human,Europe
+SRR5951702,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6015209,United States,29,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR6051780,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR6069437,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR6077557,NF,48,Enterobase,A,Human,Human,2013,2013,Human,NF
+SRR6077558,NF,48,Enterobase,A,Human,Human,2013,2013,Human,NF
+SRR6127503,United States,847,Enterobase,NF,Human,Human,2007,2007,Human,North America
+SRR6131543,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR6179173,United States,16,Enterobase,B1,Human,Human,2008,2008,Human,North America
+SRR6179276,United States,69,Enterobase,D,Human,Human,2008,2008,Human,North America
+SRR6185837,United Kingdom,28,Enterobase,ABD,Human,Human,2017,2017,Human,Europe
+SRR6185839,United Kingdom,40,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR6185852,United Kingdom,1721,Enterobase,NF,Human,Human,2017,2017,Human,Europe
+SRR6185857,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR6185858,United Kingdom,278,Enterobase,AxB1,Human,Human,2017,2017,Human,Europe
+SRR6185860,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR6185879,United Kingdom,335,Enterobase,NF,Human,Human,2017,2017,Human,Europe
+SRR6185889,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR6185893,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR6219118,Guinea-Bissau,29,Enterobase,B1,Human,Human,1996,1996,Human,NF
+SRR6252846,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR6252863,United States,16,Enterobase,B1,Human,Human,2013,2013,Human,North America
+SRR6314049,United States,16,Enterobase,B1,Human,Human,2015,2015,Human,North America
+SRR633621,NF,10,Enterobase,A,Human,Human,2010,2010,Human,NF
+SRR633626,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR633633,NF,10,Enterobase,A,Human,Human,2010,2010,Human,NF
+SRR633677,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR633744,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR633755,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR633774,NF,69,Enterobase,D,Human,Human,2009,2009,Human,NF
+SRR633806,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR633935,NF,127,Enterobase,B2,Human,Human,2010,2010,Human,NF
+SRR6366117,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6396339,Guinea-Bissau,29,Enterobase,B1,Human,Human,1997,1997,Human,NF
+SRR641802,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641813,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641832,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR641840,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641849,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR641867,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR641869,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641889,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641894,Denmark,69,Enterobase,D,Human,Human,2009,2009,Human,Europe
+SRR641897,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR641908,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641914,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR641941,Denmark,69,Enterobase,D,Human,Human,2010,2010,Human,Europe
+SRR642253,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR642264,Denmark,10,Enterobase,A,Human,Human,2010,2010,Human,Europe
+SRR642274,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR642278,NF,69,Enterobase,D,Human,Human,2010,2010,Human,NF
+SRR6425071,Argentina,10,Enterobase,A,Human,Human,2013,2013,Human,South America
+SRR6425074,Argentina,130,Enterobase,D,Human,Human,2005,2005,Human,South America
+SRR6425165,Argentina,10,Enterobase,A,Human,Human,2008,2008,Human,South America
+SRR6425166,Argentina,10,Enterobase,A,Human,Human,2017,2017,Human,South America
+SRR6425167,Argentina,200,Enterobase,B1,Human,Human,2015,2015,Human,South America
+SRR6425604,Argentina,10,Enterobase,A,Human,Human,2016,2016,Human,South America
+SRR6427422,Brazil,10,Enterobase,A,Human,Human,1999,1999,Human,South America
+SRR6467517,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR6467524,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR6485194,United States,130,Enterobase,D,Human,Human,2016,2016,Human,North America
+SRR6490550,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6490578,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6490581,United States,48,Enterobase,A,Human,Human,NF,NF,Human,North America
+SRR6505207,United States,16,Enterobase,B1,Human,Human,2009,2009,Human,North America
+SRR6658340,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6658345,United States,200,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6658346,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6658354,United States,16,Enterobase,B1,Human,Human,NF,NF,Human,North America
+SRR6701896,United States,127,Enterobase,B2,Human,Human,2015,2015,Human,North America
+SRR6701905,United States,69,Enterobase,D,Human,Human,2015,2015,Human,North America
+SRR6702210,United States,847,Enterobase,NF,Human,Human,2015,2015,Human,North America
+SRR6726550,Saudi Arabia,10,Enterobase,A,Human,Human,1991,1991,Human,Asia
+SRR6726718,Mexico,10,Enterobase,A,Human,Human,1988,1988,Human,North America
+SRR6727428,Saudi Arabia,423,Enterobase,NF,Human,Human,1991,1991,Human,Asia
+SRR6727430,Saudi Arabia,641,Enterobase,NF,Human,Human,1991,1991,Human,Asia
+SRR6791870,United States,10,Enterobase,A,Human,Human,2017,2017,Human,North America
+SRR7163942,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7163949,United Kingdom,335,Enterobase,NF,Human,Human,2017,2017,Human,Europe
+SRR7167522,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7167537,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7179834,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7179870,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7179887,United Kingdom,69,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7184322,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7184330,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7184331,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7184335,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7186902,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7186905,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7187530,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7187795,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7191464,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7191534,United Kingdom,28,Enterobase,ABD,Human,Human,2016,2016,Human,Europe
+SRR7191705,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7191720,United Kingdom,29,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7204350,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7208760,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7209046,United Kingdom,127,Enterobase,B2,Human,Human,2017,2017,Human,Europe
+SRR7209049,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7215958,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7215960,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR7221029,United Kingdom,69,Enterobase,D,Human,Human,2018,2018,Human,Europe
+SRR7221096,United Kingdom,69,Enterobase,D,Human,Human,2016,2016,Human,Europe
+SRR7221103,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR7221207,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7221213,United Kingdom,335,Enterobase,NF,Human,Human,2016,2016,Human,Europe
+SRR7221219,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7221221,United Kingdom,335,Enterobase,NF,Human,Human,2017,2017,Human,Europe
+SRR7221252,United Kingdom,48,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7221255,United Kingdom,127,Enterobase,B2,Human,Human,2017,2017,Human,Europe
+SRR7223100,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7230244,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7230298,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7230300,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7230379,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7230694,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7236436,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7236568,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7236573,United Kingdom,127,Enterobase,B2,Human,Human,2017,2017,Human,Europe
+SRR7236593,United Kingdom,69,Enterobase,D,Human,Human,2018,2018,Human,Europe
+SRR7236611,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR7244222,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7244282,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7244286,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7250947,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7250957,United Kingdom,69,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7250958,United Kingdom,29,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7250979,United Kingdom,200,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7250990,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7251001,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7251466,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7256956,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7256957,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7256988,United Kingdom,69,Enterobase,D,Human,Human,2018,2018,Human,Europe
+SRR7256991,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7257125,United Kingdom,335,Enterobase,NF,Human,Human,2017,2017,Human,Europe
+SRR7257130,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7257152,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7265838,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR7265863,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7265922,United Kingdom,2101,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR7265944,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7265949,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR7265964,United Kingdom,69,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7266762,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7266770,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7266817,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7266834,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7274781,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7274785,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7274786,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7274789,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7274813,United Kingdom,278,Enterobase,AxB1,Human,Human,2017,2017,Human,Europe
+SRR7274855,United Kingdom,29,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR7274874,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7276901,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7276949,United Kingdom,130,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7276950,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7277809,United Kingdom,278,Enterobase,AxB1,Human,Human,2017,2017,Human,Europe
+SRR7282618,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7282634,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7282645,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7282652,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7283674,United Kingdom,127,Enterobase,B2,Human,Human,2017,2017,Human,Europe
+SRR7283744,United Kingdom,29,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7283805,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7284182,United Kingdom,10,Enterobase,A,Human,Human,2016,2016,Human,Europe
+SRR7285428,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7285431,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7285485,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7285512,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7285549,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7285587,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7285596,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7286169,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7286254,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7286359,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7286362,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7286383,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7286447,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7286455,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7286473,United Kingdom,278,Enterobase,AxB1,Human,Human,2017,2017,Human,Europe
+SRR7286522,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7286524,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7286551,United Kingdom,16,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR7286556,United Kingdom,10,Enterobase,A,Human,Human,2015,2015,Human,Europe
+SRR7286581,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7290930,United Kingdom,69,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7291594,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7291606,United Kingdom,200,Enterobase,B1,Human,Human,2015,2015,Human,Europe
+SRR7291666,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7291910,United Kingdom,69,Enterobase,D,Human,Human,2017,2017,Human,Europe
+SRR7291922,United Kingdom,69,Enterobase,D,Human,Human,2018,2018,Human,Europe
+SRR7291926,United Kingdom,10,Enterobase,A,Human,Human,2013,2013,Human,Europe
+SRR7358010,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7358011,United Kingdom,28,Enterobase,ABD,Human,Human,2016,2016,Human,Europe
+SRR7358040,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7358113,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7358283,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7367201,United Kingdom,10,Enterobase,A,Human,Human,2012,2012,Human,Europe
+SRR7367205,United Kingdom,16,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7367225,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7367228,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7367403,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7367428,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7367432,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7367456,United Kingdom,29,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7367462,United Kingdom,200,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7367529,United Kingdom,278,Enterobase,AxB1,Human,Human,2018,2018,Human,Europe
+SRR7367551,United Kingdom,200,Enterobase,B1,Human,Human,2017,2017,Human,Europe
+SRR7367554,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7367556,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7367567,United Kingdom,40,Enterobase,B1,Human,Human,2016,2016,Human,Europe
+SRR7367585,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7368866,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7401656,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7401663,United Kingdom,10,Enterobase,A,Human,Human,2017,2017,Human,Europe
+SRR7417188,United Kingdom,278,Enterobase,AxB1,Human,Human,2018,2018,Human,Europe
+SRR7456554,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7456555,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7456557,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7456565,United Kingdom,200,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7457843,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7457844,United Kingdom,423,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR7457848,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7457850,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7474054,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7500925,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7501141,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7501184,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7522839,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7522841,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7588528,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7588734,United Kingdom,973,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR770158,Denmark,1248,Enterobase,NF,Human,Human,2003,2003,Human,Europe
+SRR7826926,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7826960,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7826962,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7827079,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7833074,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7833100,United Kingdom,335,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR7834593,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7835548,United Kingdom,200,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7839296,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7839299,United Kingdom,29,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7842056,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7842091,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7842137,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7842139,United Kingdom,335,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR7842141,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7849995,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7850031,United Kingdom,200,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7850059,United Kingdom,16,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR785839,Sweden,127,Enterobase,B2,Human,Human,1995,1995,Human,Europe
+SRR786324,Sweden,127,Enterobase,B2,Human,Human,1996,1996,Human,Europe
+SRR786379,Sweden,10,Enterobase,A,Human,Human,1996,1996,Human,Europe
+SRR7866094,United Kingdom,40,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7892544,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7892556,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7895971,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7895976,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7943912,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR7943917,United Kingdom,29,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7988731,United Kingdom,40,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR7988733,United Kingdom,130,Enterobase,D,Human,Human,2018,2018,Human,Europe
+SRR800481,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR800517,Denmark,127,Enterobase,B2,Human,Human,2003,2003,Human,Europe
+SRR800518,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR800520,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR800530,Denmark,127,Enterobase,B2,Human,Human,2003,2003,Human,Europe
+SRR800541,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR800556,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR800564,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR800592,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR800595,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR800596,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR800599,Denmark,127,Enterobase,B2,Human,Human,2004,2004,Human,Europe
+SRR8032838,United Kingdom,29,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR8032839,United Kingdom,335,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR8052189,United Kingdom,200,Enterobase,B1,Human,Human,2018,2018,Human,Europe
+SRR8052862,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR8059108,United Kingdom,2356,Enterobase,NF,Human,Human,2018,2018,Human,Europe
+SRR8086717,United Kingdom,10,Enterobase,A,Human,Human,2018,2018,Human,Europe
+SRR958197,Denmark,127,Enterobase,B2,Human,Human,2003,2003,Human,Europe
+SRR958199,Denmark,69,Enterobase,D,Human,Human,2005,2005,Human,Europe
+SRR958253,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR958258,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR958285,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR958309,Denmark,10,Enterobase,A,Human,Human,2004,2004,Human,Europe
+SRR958322,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR958330,Denmark,69,Enterobase,D,Human,Human,2004,2004,Human,Europe
+SRR958361,Denmark,127,Enterobase,B2,Human,Human,2003,2003,Human,Europe
+SRR958398,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR958408,Denmark,363,Enterobase,NF,Human,Human,2003,2003,Human,Europe
+SRR958441,Denmark,69,Enterobase,D,Human,Human,2003,2003,Human,Europe
+SRR958512,Denmark,127,Enterobase,B2,Human,Human,2006,2006,Human,Europe
+SRR958521,Denmark,69,Enterobase,D,Human,Human,2006,2006,Human,Europe
+SRR958523,Denmark,127,Enterobase,B2,Human,Human,2006,2006,Human,Europe
+SRR958540,Denmark,69,Enterobase,D,Human,Human,2006,2006,Human,Europe
+SRR958561,Sweden,127,Enterobase,B2,Human,Human,1995,1995,Human,Europe
+SRR958564,Sweden,127,Enterobase,B2,Human,Human,1996,1996,Human,Europe
+SRR958566,Sweden,200,Enterobase,B1,Human,Human,1996,1996,Human,Europe
+SRR958583,Sweden,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR958610,Sweden,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR958618,Sweden,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR958728,Sweden,127,Enterobase,B2,Human,Human,1995,1995,Human,Europe
+SRR958730,Sweden,29,Enterobase,B1,Human,Human,1995,1995,Human,Europe
+SRR958741,Sweden,10,Enterobase,A,Human,Human,1995,1995,Human,Europe
+SRR958765,Sweden,127,Enterobase,B2,Human,Human,1997,1997,Human,Europe
+SRR958782,Sweden,127,Enterobase,B2,Human,Human,1996,1996,Human,Europe
+SRR958787,Sweden,127,Enterobase,B2,Human,Human,1996,1996,Human,Europe
+SRR2994195,NF,278,Enterobase,AxB1,Non,Food,NF,NF,Food,NF
+SRR3406057,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3734490,United States,10,Enterobase,A,Non,Food,2012,2012,Food,North America
+SRR3734491,United States,10,Enterobase,A,Non,Food,2012,2012,Food,North America
+SRR3931166,United States,10,Enterobase,A,Non,Food,2014,2014,Food,North America
+SRR3931194,United States,278,Enterobase,AxB1,Non,Food,2010,2010,Food,North America
+SRR3931207,United States,1727,Enterobase,NF,Non,Food,2010,2010,Food,North America
+SRR3931239,United States,942,Enterobase,NF,Non,Food,2011,2011,Food,North America
+SRR3951613,United States,737,Enterobase,NF,Non,Food,2014,2014,Food,North America
+SRR4897313,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR4897743,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5023948,United Kingdom,218,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5029820,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5029831,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5029840,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5031180,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5033729,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR5035006,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5035013,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5035024,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5112854,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5112857,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5112858,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5112872,United Kingdom,1308,Enterobase,NF,Non,Food,2016,2016,Food,Europe
+SRR5306582,United States,10,Enterobase,A,Non,Food,NF,NF,Food,North America
+SRR5330922,NF,335,Enterobase,NF,Non,Food,1994,1994,Food,NF
+SRR5341961,United States,1248,Enterobase,NF,Non,Food,2012,2012,Food,North America
+SRR5341975,United States,278,Enterobase,AxB1,Non,Food,2000,2000,Food,North America
+SRR5434330,South Korea,1308,Enterobase,NF,Non,Food,1996,1996,Food,Asia
+SRR5434331,South Korea,10,Enterobase,A,Non,Food,1996,1996,Food,Asia
+SRR5434334,South Korea,10,Enterobase,A,Non,Food,1996,1996,Food,Asia
+SRR5434347,United States,16,Enterobase,B1,Non,Food,2010,2010,Food,North America
+SRR5470251,United Kingdom,278,Enterobase,AxB1,Non,Food,2017,2017,Food,Europe
+SRR5470261,United Kingdom,278,Enterobase,AxB1,Non,Food,2017,2017,Food,Europe
+SRR5470826,United States,1727,Enterobase,NF,Non,Food,2010,2010,Food,North America
+SRR5470827,United States,1727,Enterobase,NF,Non,Food,2010,2010,Food,North America
+SRR5470914,United States,16,Enterobase,B1,Non,Food,2010,2010,Food,North America
+SRR5688550,Egypt,10,Enterobase,A,Non,Food,2016,2016,Food,Africa
+SRR5688551,Egypt,10,Enterobase,A,Non,Food,2016,2016,Food,Africa
+SRR5688553,Egypt,10,Enterobase,A,Non,Food,2016,2016,Food,Africa
+SRR5688555,Egypt,69,Enterobase,D,Non,Food,2016,2016,Food,Africa
+SRR5688556,Egypt,10,Enterobase,A,Non,Food,2016,2016,Food,Africa
+SRR5884075,United States,28,Enterobase,ABD,Non,Food,2017,2017,Food,North America
+SRR6185826,United Kingdom,1727,Enterobase,NF,Non,Food,2017,2017,Food,Europe
+SRR6222168,Argentina,10,Enterobase,A,Non,Food,2009,2009,Food,South America
+SRR6236977,Argentina,278,Enterobase,AxB1,Non,Food,1999,1999,Food,South America
+SRR6324140,United Kingdom,10,Enterobase,A,Non,Food,2016,2016,Food,Europe
+SRR7041865,United States,641,Enterobase,NF,Non,Food,1999,1999,Food,North America
+SRR7500938,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7500944,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7500986,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7500997,United Kingdom,10,Enterobase,A,Non,Food,2015,2015,Food,Europe
+SRR7505780,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7505869,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7505877,United Kingdom,10,Enterobase,A,Non,Food,2016,2016,Food,Europe
+SRR7505882,United Kingdom,10,Enterobase,A,Non,Food,2017,2017,Food,Europe
+SRR7527615,United Kingdom,10,Enterobase,A,Non,Food,2018,2018,Food,Europe
+SRR7786656,United States,2521,Enterobase,NF,Non,Food,2016,2016,Food,North America
+SRR7786658,United States,2521,Enterobase,NF,Non,Food,2016,2016,Food,North America
+SRR2826836,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR2920604,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3098455,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3106221,United States,2522,Enterobase,NF,Non,Food,2015,2015,Food,North America
+SRR3144229,United States,16,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR3171745,United States,16,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR3414330,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3437127,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3457631,United States,29,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR3457774,United States,16,Enterobase,B1,Non,Food,2015,2015,Food,North America
+SRR3931160,United States,10,Enterobase,A,Non,Food,2014,2014,Food,North America
+SRR4239755,United States,16,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR4419038,United States,16,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR5091628,United States,29,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR5091695,United States,16,Enterobase,B1,Non,Food,2016,2016,Food,North America
+SRR5336306,Mexico,10,Enterobase,A,Non,Food,2002,2002,Food,North America
+SRR5441614,United States,16,Enterobase,B1,Non,Food,2017,2017,Food,North America
+SRR5588877,United States,29,Enterobase,B1,Non,Food,2017,2017,Food,North America
+SRR6197816,United States,16,Enterobase,B1,Non,Food,2017,2017,Food,North America
+SRR6197835,United States,16,Enterobase,B1,Non,Food,2017,2017,Food,North America
+SRR6310038,United States,29,Enterobase,B1,Non,Food,2017,2017,Food,North America
+SRR6919237,United States,10,Enterobase,A,Non,Food,2000,2000,Food,North America
+SRR6930192,United States,10,Enterobase,A,Non,Food,2000,2000,Food,North America
+SRR6930201,United States,10,Enterobase,A,Non,Food,2000,2000,Food,North America
+SRR6930202,United States,10,Enterobase,A,Non,Food,2000,2000,Food,North America
+SRR7011047,United States,10,Enterobase,A,Non,Food,1998,1998,Food,North America
+SRR7267540,United States,29,Enterobase,B1,Non,Food,2018,2018,Food,North America
+SRR7427138,United States,127,Enterobase,B2,Non,Food,2002,2002,Food,North America
+SRR7427254,United States,127,Enterobase,B2,Non,Food,2002,2002,Food,North America
+SRR8095476,United States,10,Enterobase,A,Non,Food,2017,2017,Food,North America
+SRR8095534,United States,10,Enterobase,A,Non,Food,2017,2017,Food,North America
+SRR1272843,United States,1727,Enterobase,NF,Non,Enviornment,2010,2010,Enviornment,North America
+SRR1272883,United States,1727,Enterobase,NF,Non,Enviornment,2010,2010,Enviornment,North America
+SRR2239579,United States,278,Enterobase,AxB1,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239590,United States,10,Enterobase,A,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239596,United States,10,Enterobase,A,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239597,United States,278,Enterobase,AxB1,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239599,United States,10,Enterobase,A,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239601,United States,278,Enterobase,AxB1,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2239609,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239610,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239613,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239614,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239617,United States,278,Enterobase,AxB1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239619,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239620,United States,48,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239622,United States,278,Enterobase,AxB1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239623,United States,278,Enterobase,AxB1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239625,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239635,United States,1727,Enterobase,NF,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239638,United States,10,Enterobase,A,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239639,United States,641,Enterobase,NF,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239647,United States,2522,Enterobase,NF,Non,Enviornment,2012,2012,Enviornment,North America
+SRR2239648,United States,278,Enterobase,AxB1,Non,Enviornment,2011,2011,Enviornment,North America
+SRR2568727,United States,16,Enterobase,B1,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3131252,United States,28,Enterobase,ABD,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3131258,United States,28,Enterobase,ABD,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3134831,United States,28,Enterobase,ABD,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3134842,United States,29,Enterobase,B1,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3136824,United States,127,Enterobase,B2,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3136829,United States,423,Enterobase,NF,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3136830,United States,973,Enterobase,NF,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3136832,United States,641,Enterobase,NF,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3136838,United States,69,Enterobase,D,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3136877,United States,10,Enterobase,A,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3146566,United States,40,Enterobase,B1,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3156769,United States,69,Enterobase,D,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3156775,United States,106,Enterobase,D,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3177665,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177666,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177667,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177668,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177669,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177670,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177671,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177672,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177673,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177724,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177725,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177726,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3177727,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177728,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177729,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177730,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177731,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177732,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177734,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177735,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3177737,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3178052,United States,29,Enterobase,B1,Non,Enviornment,2009,2009,Enviornment,North America
+SRR3178054,United States,29,Enterobase,B1,Non,Enviornment,2009,2009,Enviornment,North America
+SRR3178418,United States,127,Enterobase,B2,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3224367,United States,16,Enterobase,B1,Non,Enviornment,2012,2012,Enviornment,North America
+SRR3228735,United States,218,Enterobase,A,Non,Enviornment,NF,NF,Enviornment,North America
+SRR3228736,United States,218,Enterobase,A,Non,Enviornment,NF,NF,Enviornment,North America
+SRR3466139,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR3657584,United States,16,Enterobase,B1,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3695759,United States,10,Enterobase,A,Non,Enviornment,1991,1991,Enviornment,North America
+SRR3695760,United States,29,Enterobase,B1,Non,Enviornment,1995,1995,Enviornment,North America
+SRR3824541,United States,10,Enterobase,A,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3829548,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3829549,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3829553,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3829555,United States,16,Enterobase,B1,Non,Enviornment,2013,2013,Enviornment,North America
+SRR3928754,United States,10,Enterobase,A,Non,Enviornment,2015,2015,Enviornment,North America
+SRR3929497,United States,641,Enterobase,NF,Non,Enviornment,2003,2003,Enviornment,North America
+SRR3931157,United States,10,Enterobase,A,Non,Enviornment,2014,2014,Enviornment,North America
+SRR3931159,United States,1727,Enterobase,NF,Non,Enviornment,2010,2010,Enviornment,North America
+SRR3931171,United States,1727,Enterobase,NF,Non,Enviornment,2010,2010,Enviornment,North America
+SRR3931182,United States,1727,Enterobase,NF,Non,Enviornment,2010,2010,Enviornment,North America
+SRR3957201,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR3987464,United States,129,Enterobase,B1,Non,Enviornment,2001,2001,Enviornment,North America
+SRR3988002,United States,973,Enterobase,NF,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3989598,United States,2521,Enterobase,NF,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3989605,United States,10,Enterobase,A,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3989625,United States,10,Enterobase,A,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3989626,United States,200,Enterobase,B1,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3989636,United States,10,Enterobase,A,Non,Enviornment,1993,1993,Enviornment,North America
+SRR3994016,United States,40,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR4176562,United States,16,Enterobase,B1,Non,Enviornment,2015,2015,Enviornment,North America
+SRR4176567,United States,16,Enterobase,B1,Non,Enviornment,2015,2015,Enviornment,North America
+SRR4216995,United States,10,Enterobase,A,Non,Enviornment,2007,2007,Enviornment,North America
+SRR4217000,United States,28,Enterobase,ABD,Non,Enviornment,2015,2015,Enviornment,North America
+SRR5001046,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5031271,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5031273,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5031274,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5031275,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5082121,United States,16,Enterobase,B1,Non,Enviornment,2016,2016,Enviornment,North America
+SRR5336255,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR5341960,United States,942,Enterobase,NF,Non,Enviornment,2012,2012,Enviornment,North America
+SRR5452311,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452312,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452313,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452314,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452315,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452317,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5452319,United States,106,Enterobase,D,Non,Enviornment,2017,2017,Enviornment,North America
+SRR5470990,United States,10,Enterobase,A,Non,Enviornment,2015,2015,Enviornment,North America
+SRR5605988,United States,538,Enterobase,NF,Non,Enviornment,NF,NF,Enviornment,North America
+SRR5680930,United States,10,Enterobase,A,Non,Enviornment,2015,2015,Enviornment,North America
+SRR5970424,United States,847,Enterobase,NF,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6181312,United States,641,Enterobase,NF,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6181653,United States,16,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6219675,United States,10,Enterobase,A,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6219774,United States,278,Enterobase,AxB1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6220066,United States,1727,Enterobase,NF,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6220198,United States,129,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6373713,United States,16,Enterobase,B1,Non,Enviornment,2014,2014,Enviornment,North America
+SRR6443373,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443392,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443393,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443399,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443604,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443619,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443620,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443624,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443625,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443626,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443627,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443630,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443637,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443638,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443642,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443773,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443774,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443775,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443776,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443777,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443778,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443780,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443785,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6443791,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445042,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445044,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445045,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445046,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445095,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445101,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445102,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445106,United States,16,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6445112,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445113,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445116,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445129,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445131,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445144,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445189,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6445190,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6446713,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6446735,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6446768,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6446769,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449606,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449607,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449648,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449751,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449759,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6449788,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6664104,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6664107,United States,10,Enterobase,A,Non,Enviornment,2000,2000,Enviornment,North America
+SRR6689539,United States,16,Enterobase,B1,Non,Enviornment,NF,NF,Enviornment,North America
+SRR6689546,United States,29,Enterobase,B1,Non,Enviornment,NF,NF,Enviornment,North America
+SRR6689554,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6689559,United States,16,Enterobase,B1,Non,Enviornment,NF,NF,Enviornment,North America
+SRR6690757,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6690768,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6691634,United States,16,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6743537,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743539,United States,16,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6743540,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743542,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743544,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743564,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743565,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6743568,United States,16,Enterobase,B1,Non,Enviornment,2017,2017,Enviornment,North America
+SRR6761084,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6766780,United States,69,Enterobase,D,Non,Enviornment,2018,2018,Enviornment,North America
+SRR6985925,United States,973,Enterobase,NF,Non,Enviornment,1965,1965,Enviornment,North America
+SRR7064469,United States,127,Enterobase,B2,Non,Enviornment,2000,2000,Enviornment,North America
+SRR7135418,United States,538,Enterobase,NF,Non,Enviornment,1967,1967,Enviornment,North America
+SRR7263711,United States,129,Enterobase,B1,Non,Enviornment,2002,2002,Enviornment,North America
+SRR7264563,United States,1248,Enterobase,NF,Non,Enviornment,2002,2002,Enviornment,North America
+SRR7283820,United States,1308,Enterobase,NF,Non,Enviornment,2002,2002,Enviornment,North America
+SRR7284855,United States,1248,Enterobase,NF,Non,Enviornment,2002,2002,Enviornment,North America
+SRR7369976,United States,1727,Enterobase,NF,Non,Enviornment,2018,2018,Enviornment,North America
+SRR7369979,United States,1727,Enterobase,NF,Non,Enviornment,2018,2018,Enviornment,North America
+SRR7497027,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR7497031,United States,16,Enterobase,B1,Non,Enviornment,2018,2018,Enviornment,North America
+SRR7889222,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7889287,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7889292,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7889310,United States,127,Enterobase,B2,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7889321,United States,10,Enterobase,A,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7889364,United States,29,Enterobase,B1,Non,Enviornment,2003,2003,Enviornment,North America
+SRR7904908,United States,847,Enterobase,NF,Non,Enviornment,2004,2004,Enviornment,North America
+SRR7904913,United States,127,Enterobase,B2,Non,Enviornment,2004,2004,Enviornment,North America
+SRR7904924,United States,538,Enterobase,NF,Non,Enviornment,2004,2004,Enviornment,North America
+SRR7904968,United States,538,Enterobase,NF,Non,Enviornment,2004,2004,Enviornment,North America
+SRR7905454,United States,127,Enterobase,B2,Non,Enviornment,2004,2004,Enviornment,North America
+SRR3825878,United States,10,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3951465,United States,10,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3974867,United States,10,Enterobase,A,Non,Animal,1995,1995,Animal,North America
+SRR3975189,United States,641,Enterobase,NF,Non,Animal,1995,1995,Animal,North America
+SRR3975531,United States,200,Enterobase,B1,Non,Animal,1993,1993,Animal,North America
+SRR3977089,United States,10,Enterobase,A,Non,Animal,1998,1998,Animal,North America
+SRR3987465,United States,16,Enterobase,B1,Non,Animal,1998,1998,Animal,North America
+SRR3993809,United States,127,Enterobase,B2,Non,Animal,1985,1985,Animal,North America
+SRR3993823,United States,129,Enterobase,B1,Non,Animal,1976,1976,Animal,North America
+SRR4046418,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4046423,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4046426,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4259696,United States,2354,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4260099,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294828,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR4294832,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294893,United States,69,Enterobase,D,Non,Animal,2014,2014,Animal,North America
+SRR4294967,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR4294974,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181481,United States,2522,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5181484,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181522,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181546,United States,69,Enterobase,D,Non,Animal,2014,2014,Animal,North America
+SRR5181555,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181556,United States,48,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5181557,United States,2522,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR5330910,United States,10,Enterobase,A,Non,Animal,1971,1971,Animal,North America
+SRR5418788,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5459143,United States,10,Enterobase,A,Non,Animal,2014,2014,Animal,North America
+SRR5470028,United States,69,Enterobase,D,Non,Animal,2014,2014,Animal,North America
+SRR5649648,United States,10,Enterobase,A,Non,Animal,2015,2015,Animal,North America
+SRR5928752,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR6161046,Canada,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR6374051,United States,10,Enterobase,A,Non,Animal,2017,2017,Animal,North America
+SRR6427273,United States,10,Enterobase,A,Non,Animal,1983,1983,Animal,North America
+SRR6440976,United States,10,Enterobase,A,Non,Animal,1982,1982,Animal,North America
+SRR6512531,United States,10,Enterobase,A,Non,Animal,2007,2007,Animal,North America
+SRR6742532,United States,973,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6742588,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR6761140,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR6793086,United States,973,Enterobase,NF,Non,Animal,2006,2006,Animal,North America
+SRR6821021,United States,641,Enterobase,NF,Non,Animal,2014,2014,Animal,North America
+SRR6875394,United States,641,Enterobase,NF,Non,Animal,2017,2017,Animal,North America
+SRR6875395,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR6902707,United States,127,Enterobase,B2,Non,Animal,2000,2000,Animal,North America
+SRR6930493,United States,127,Enterobase,B2,Non,Animal,2000,2000,Animal,North America
+SRR6930872,United States,127,Enterobase,B2,Non,Animal,2000,2000,Animal,North America
+SRR6978939,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR7042030,United States,69,Enterobase,D,Non,Animal,1999,1999,Animal,North America
+SRR7042056,United States,10,Enterobase,A,Non,Animal,1999,1999,Animal,North America
+SRR7064605,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR7130338,United States,200,Enterobase,B1,Non,Animal,2016,2016,Animal,North America
+SRR7278526,United States,69,Enterobase,D,Non,Animal,2017,2017,Animal,North America
+SRR7613573,United States,1308,Enterobase,NF,Non,Animal,2013,2013,Animal,North America
+SRR7659811,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR7660780,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR7660795,United States,127,Enterobase,B2,Non,Animal,2017,2017,Animal,North America
+SRR7786654,United States,127,Enterobase,B2,Non,Animal,2016,2016,Animal,North America
+SRR7786738,United States,40,Enterobase,B1,Non,Animal,2015,2015,Animal,North America
+SRR7799337,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR8040834,United States,10,Enterobase,A,Non,Animal,2018,2018,Animal,North America
+SRR7085324,United States,69,Enterobase,D,Non,Animal,2012,2012,Animal,North America
+SRR7788244,United States,10,Enterobase,A,Non,Animal,2016,2016,Animal,North America
+SRR7788262,United States,127,Enterobase,B2,Non,Animal,2016,2016,Animal,North America
